@@ -1,0 +1,1 @@
+(window.vcvWebpackJsonp4x=window.vcvWebpackJsonp4x||[]).push([["layoutsView"],{"./themeEditor/src/layoutsView.js":function(e,s,c){"use strict";c.r(s);var t=c("./node_modules/vc-cake/index.js");Object(t.env)("VCV_JS_THEME_LAYOUTS",!0),Object(t.env)("VCV_JS_THEME_EDITOR",!1),Object(t.env)("ADD_TEMPLATE_DROPDOWN",!0)}},[["./themeEditor/src/layoutsView.js"]]]);
