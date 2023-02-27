@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Pathogenicus</title>
-	<atom:link href="https://path.ogenic.us/feed/" rel="self" type="application/rss+xml" />
-	<link>https://path.ogenic.us/</link>
+	<title>General Archives | Pathogenicus</title>
+	<atom:link href="https://path.ogenic.us/category/general/feed/" rel="self" type="application/rss+xml" />
+	<link>https://path.ogenic.us/category/general/</link>
 	<description>Blood and shadow.</description>
 	<lastBuildDate>Mon, 27 Feb 2023 09:23:05 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://path.ogenic.us/wp-content/uploads/2023/02/cropped-pathogenicus-32x32.png</url>
-	<title>Pathogenicus</title>
-	<link>https://path.ogenic.us/</link>
+	<title>General Archives | Pathogenicus</title>
+	<link>https://path.ogenic.us/category/general/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
