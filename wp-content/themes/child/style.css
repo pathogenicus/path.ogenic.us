@@ -16,7 +16,6 @@ Tags:
 */
 
 html{
-  padding: 5% !important;
   background: black;
   background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.1), rgba(255,255,255, 0.1) 1px, transparent 0px, transparent 2px);
 
@@ -36,4 +35,7 @@ h1,h2,h3,h4,h5,h6,p,a{
 }
 a{
 	text-decoration: none;
+}
+.wp-site-blocks{
+	  padding: 5% !important;
 }
