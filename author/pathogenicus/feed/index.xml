@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Pathogenicus Work | Blood and shadow grimoire addressed to me and for my use.</title>
-	<atom:link href="http://localhost/feed/?simply_static_page=140" rel="self" type="application/rss+xml" />
-	<link>https://path.ogenic.us/</link>
+	<title>pathogenicus, Author at Pathogenicus Work</title>
+	<atom:link href="http://localhost/author/pathogenicus/feed/?simply_static_page=181" rel="self" type="application/rss+xml" />
+	<link>https://path.ogenic.us/author/pathogenicus/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
 	<lastBuildDate>Tue, 21 Mar 2023 21:03:44 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://path.ogenic.us/wp-content/uploads/2023/03/pathogenicus-150x150.png</url>
-	<title>Pathogenicus Work | Blood and shadow grimoire addressed to me and for my use.</title>
-	<link>https://path.ogenic.us/</link>
+	<title>pathogenicus, Author at Pathogenicus Work</title>
+	<link>https://path.ogenic.us/author/pathogenicus/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -196,7 +196,7 @@
 
 					<description><![CDATA[<p>The post <a rel="nofollow" href="https://path.ogenic.us/sitemap/">Sitemap</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
 ]]></description>
-										<content:encoded><![CDATA[<div id="simple-sitemap-container-641a1c1a5251d" class="simple-sitemap-container simple-sitemap-container-641a1c1a5251d tab-disabled"><div class="simple-sitemap-wrap"><ul class="simple-sitemap-post main"><li class="sitemap-item"><a href="https://path.ogenic.us/beginning-start/">Beginning start</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/chronicle/">Chronicle of stories</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/policy/">Policy</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/sitemap/">Sitemap</a></li></ul></div><div class="simple-sitemap-wrap"><ul class="simple-sitemap-page main"><li class="sitemap-item page_item page-item-12"><a href="https://path.ogenic.us/chapter-0/">_zero</a></li>
+										<content:encoded><![CDATA[<div id="simple-sitemap-container-641a1c1b93230" class="simple-sitemap-container simple-sitemap-container-641a1c1b93230 tab-disabled"><div class="simple-sitemap-wrap"><ul class="simple-sitemap-post main"><li class="sitemap-item"><a href="https://path.ogenic.us/beginning-start/">Beginning start</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/chronicle/">Chronicle of stories</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/policy/">Policy</a></li><li class="sitemap-item"><a href="https://path.ogenic.us/sitemap/">Sitemap</a></li></ul></div><div class="simple-sitemap-wrap"><ul class="simple-sitemap-page main"><li class="sitemap-item page_item page-item-12"><a href="https://path.ogenic.us/chapter-0/">_zero</a></li>
 <li class="sitemap-item page_item page-item-15"><a href="https://path.ogenic.us/chapter-1/">1</a></li>
 <li class="sitemap-item page_item page-item-17"><a href="https://path.ogenic.us/chapter-2/">2</a></li>
 <li class="sitemap-item page_item page-item-56"><a href="https://path.ogenic.us/chapter-3/">3</a></li>
