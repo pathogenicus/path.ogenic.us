@@ -1,0 +1,39 @@
+/*
+Theme Name: child
+Theme URI: 
+Author: 
+Author URI: 
+Description: 
+Requires at least: 5.8
+Tested up to: 5.9
+Requires PHP: 5.7
+Version: 0.0.1
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Template: blank
+Text Domain: child
+Tags: 
+*/
+
+html{
+  background: black;
+  background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.1), rgba(255,255,255, 0.1) 1px, transparent 0px, transparent 2px);
+
+}
+body{
+	padding: 5% !important;
+	margin: auto !important;
+	width: 95% !important;
+	background: black;
+	background-image: repeating-linear-gradient(36deg, rgba(255,255,255, 0.1), rgba(255,255,255, 0.1) 1px, transparent 0px, transparent 2px);
+
+}
+h1,h2,h3,h4,h5,h6,p,a{
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  -webkit-mask-image: url("https://ucarecdn.com/9514f9b1-3bf9-4b7c-b31d-9fb8cd6af8bf/");
+  mask-image: url("https://ucarecdn.com/9514f9b1-3bf9-4b7c-b31d-9fb8cd6af8bf/");
+}
+a{
+	text-decoration: none;
+}

@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>Pathogenicus</title>
-	<atom:link href="https://path.ogenic.us/feed/" rel="self" type="application/rss+xml" />
+	<title>Pathogenicus Work</title>
+	<atom:link href="http://localhost/feed/?simply_static_page=45" rel="self" type="application/rss+xml" />
 	<link>https://path.ogenic.us/</link>
-	<description>Blood and shadow.</description>
-	<lastBuildDate>Sun, 05 Mar 2023 13:27:14 +0000</lastBuildDate>
+	<description>Blood and shadow grimoire addressed to me and for my use.</description>
+	<lastBuildDate>Tue, 21 Mar 2023 18:47:23 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,92 +21,77 @@
 	<generator>https://wordpress.org/?v=6.1.1</generator>
 
 <image>
-	<url>https://path.ogenic.us/wp-content/uploads/2023/02/cropped-pathogenicus-32x32.png</url>
-	<title>Pathogenicus</title>
+	<url>https://path.ogenic.us/wp-content/uploads/2023/03/pathogenicus-150x150.png</url>
+	<title>Pathogenicus Work</title>
 	<link>https://path.ogenic.us/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>My vengeance will be long and cruel- as you have done unto me and so it shall be.</title>
-		<link>https://path.ogenic.us/my-vengeance-will-be-long-and-cruel-as-you-have-done-unto-me-and-so-it-shall-be/</link>
+		<title>Chronicle of stories</title>
+		<link>https://path.ogenic.us/chronicle/</link>
+					<comments>https://path.ogenic.us/chronicle/#respond</comments>
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Sat, 04 Mar 2023 09:58:15 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=174</guid>
+		<pubDate>Tue, 14 Mar 2023 06:21:43 +0000</pubDate>
+				<category><![CDATA[Guidance]]></category>
+		<guid isPermaLink="false">https://path.ogenic.us/?p=25</guid>
 
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://path.ogenic.us/my-vengeance-will-be-long-and-cruel-as-you-have-done-unto-me-and-so-it-shall-be/">My vengeance will be long and cruel- as you have done unto me and so it shall be.</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://path.ogenic.us/my-vengeance-will-be-long-and-cruel-as-you-have-done-unto-me-and-so-it-shall-be/">My vengeance will be long and cruel- as you have done unto me and so it shall be.</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>we are born daed, that we may enter into life</title>
-		<link>https://path.ogenic.us/we-are-born-daed-that-we-may-enter-into-life/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Fri, 03 Mar 2023 20:47:15 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=172</guid>
-
-					<description><![CDATA[<p>The post <a rel="nofollow" href="https://path.ogenic.us/we-are-born-daed-that-we-may-enter-into-life/">we are born daed, that we may enter into life</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<p>The post <a rel="nofollow" href="https://path.ogenic.us/we-are-born-daed-that-we-may-enter-into-life/">we are born daed, that we may enter into life</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>Shadowkeepers and Oblivion versus paradox.</title>
-		<link>https://path.ogenic.us/shadowkeepers-and-oblivion-versus-paradox/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Fri, 03 Mar 2023 19:24:15 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=170</guid>
-
-					<description><![CDATA[<p>look those, doing some thought-digging(research), then delete this post.</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/shadowkeepers-and-oblivion-versus-paradox/">Shadowkeepers and Oblivion versus paradox.</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
+					<description><![CDATA[The chronicle serves as the structure that binds all the elements and offers the essential context in which you interpret narrative synthesis. Incorporating significant performance influences facilitates the infusion of the overarching story with a particular style and enhances the coherence of the narrative. The period between adventures provides a generalized representation of the world [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<p>look those, doing some thought-digging(research), then delete this post.</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/shadowkeepers-and-oblivion-versus-paradox/">Shadowkeepers and Oblivion versus paradox.</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>OH, the vengeance that beholdens me!</title>
-		<link>https://path.ogenic.us/oh-the-vengeance-that-beholdens-me/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Fri, 03 Mar 2023 19:04:58 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=166</guid>
-
-					<description><![CDATA[<p>as i wake upon this no-land all i know all I see is but VENGEANCEand weepingmourning OH THIS VENGEANCE vengeanceLORD</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/oh-the-vengeance-that-beholdens-me/">OH, the vengeance that beholdens me!</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[
-<p>as i wake upon this no-land</p>
+<p>The chronicle serves as the structure that binds all the elements and offers the essential context in which you interpret narrative synthesis.</p>
 
 
 
-<p>all i know</p>
+<p>Incorporating significant performance influences facilitates the infusion of the overarching story with a particular style and enhances the coherence of the narrative.</p>
 
 
 
-<p>all I see</p>
+<p>The period between adventures provides a generalized representation of the world that surrounds your player character.</p>
 
 
 
-<p>is but VENGEANCE<br>and weeping<br>mourning</p>
+<p>Delve into their leisure time, observe the events occurring around them, and unearth story opportunities for upcoming adventures.</p>
+
+
+
+<p>The chronicle employs the adventure narrative extensively and enables it to exist beyond the stories of your player character.</p>
+
+
+
+<p>Chronicle > adventure (story > chapter) > scene > turn &lt;> downtime</p>
+
+
+
+<p>Play through an adventure</p>
+
+
+
+<p>define some parameters/attributes/descriptions/properties/etc </p>
+
+
+
+<p>post/after getting to know your character(s)</p>
+
+
+
+<p>then note the following:</p>
+
+
+
+<p>chronicle parameters<br>examples: duration-span, breadth-width, bar/marker/difficulty/plateau/tier/rank/etc, and ambiance/setting/etc</p>
+
+
+
+<p>duration parameters<br>examples: once, short, medium, long, generation, age</p>
+
+
+
+<p>Consider the type of adventure I wish to undertake and choose a duration that aligns with my idea.</p>
+
+
+
+<p>Remember, I am not bound to these values, and I can modify them as needed. Additionally, I can play multiple chronicles with the same character if I wish.</p>
 
 
 
@@ -114,126 +99,613 @@
 
 
 
-<p>OH THIS VENGEANCE<br></p>
+<p>breadth params<br>examples: personal, narrow, unknown, wide, universal </p>
 
 
 
-<p>vengeance<br>LORD </p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/oh-the-vengeance-that-beholdens-me/">OH, the vengeance that beholdens me!</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
+<p>The breadth of my chronicle sets the least number of items required for my ongoing narration and determines the synthesis during the chronicle.</p>
+
+
+
+<p>The breadth of my adventure can significantly impact the meaning of synthesis.</p>
+
+
+
+<p>Consider the given initial items for your narrative as the least amount of details.</p>
+
+
+
+<p>It is recommended that I add any other details that are pertinent to my current story and/or chronicle.</p>
+
+
+
+<p>The synthesis can enlighten me more if you provide more targets.</p>
+
+
+
+<p>I can also choose to synthesize what is required by the scale of my chronicle.</p>
+
+
+
+<p>Feel free to add more details to any entry in your narrative that I want to elaborate on.</p>
+
+
+
+<p></p>
+
+
+
+<p>difficulty params<br>examples: easy, small, hard, nightmare, mystery/unpredictable/unexpected</p>
+
+
+
+<p>Having a clear understanding of the difficulty involved in a chronical can significantly alter and simplify the synthesis.</p>
+
+
+
+<p></p>
+
+
+
+<p>ambiance params to combine <br>examples: war, satire, endurance, psychological, detective, epic, seductive</p>
+
+
+
+<p>The ambiance is entirely discretionary and does not have any impact on my gameplay technique.</p>
+
+
+
+<p>I can choose to employ it to add a particular style to my chronicle, individual stories, or a few select chapters.</p>
+
+
+
+<p>Viewing a specific style through the same synthesis can evoke vastly different emotions and perceptions.</p>
+
+
+
+<p></p>
+
+
+
+<p>Intentions, aims[, decoys, distractions{, therapies, dissertations, analyses, observations( NOT JUDGEMENTS OF VALUE OR WORTH )}], seen through to the end/completion/satisfaction[satiance], harmony and melody and rhythm with division/separation/scattering: tides, undulations; CHANGINGS, events elsewhere- needs, immediates</p>
+
+
+
+<p>Intentions that extend beyond a single story are referred to as chronicle objectives.</p>
+
+
+
+<p>These chronicle Intentions serve as the primary motivator behind the larger narrative, interwoven throughout all of the stories within the chronicle.</p>
+
+
+
+<p>Typically, accomplishing these Intentions marks the conclusion of the chronicle, but there&#8217;s no harm in modifying them if it better aligns with the changing storyline.</p>
+
+
+
+<p>Consider chronicle Intentions as your character&#8217;s ambitions or long-term aims.</p>
+
+
+
+<p>These Intentions can either be rational and tangible, with a clear-cut goal, or more abstract and loosely described.</p>
+
+
+
+<p>The essence of synthesis is characterized by a degree of mystery and the unknown.</p>
+
+
+
+<p>The storyline is continually synthesizing, and unforeseen plot twists lie in wait at every turn.</p>
+
+
+
+<p>It&#8217;s normal for chronical intensions to synthesize and update over the generations and ages.</p>
+
+
+
+<p>Do not hesitate to replace your chronicle intentionals in the midst of an ongoing chronicle if the storyline calls for it.</p>
+
+
+
+<p>However, attempt to adhere to your original intention until you perceive that your player character is no longer interested in achieving it, or a new intention emerges that takes precedence and demands immediate aim.</p>
+
+
+
+<p>I&#8217;m allowed to be adaptable and graft the gameplay techniques to suit the surroundings of your storyline.</p>
+
+
+
+<p>To keep track of progress and character achievements, it may be useful to document significant cornerstones throughout the chronicle.</p>
+
+
+
+<p>These serve as useful reminders and can also act as markers for any potential international modifications.</p>
+
+
+
+<p></p>
+
+
+
+<p>DEATH TO SELF AND EGO AND MIND<br>B VOID AND B FILLED</p>
+
+
+
+<p>CONTROL YOUR OWN MIND, a.k.a. your brain</p>
+
+
+
+<p>DELETE YOURSELF</p>
+
+
+
+<p>DETERMINE YOUR VALUES</p>
+
+
+
+<p>TERMINATE YOUR EGO</p>
+
+
+
+<p>BECOME different characters IN order to ACCOMPLISH GOALS successfully </p>
+
+
+
+<p>accomplishments</p>
+
+
+
+<p>The chronicle comprises: initial parameters (concept, duration, breadth, difficulty, ambiance, objectives), summary and overview of the stories featured in the chronicle, past narration.</p>
+
+
+
+<p>The chronicle narrative contains: minimum events required per turn (chronicle scale), situation briefs, potential story problems.</p>
+
+
+
+<p>I need not establish every aspect at the outset.</p>
+
+
+
+<p>I can choose to leave entries blank and only complete them when they arise during gameplay. </p>
+
+
+
+<p>I may disregard any technical updates until I use the corresponding chronicle parameter. </p>
+
+
+
+<p>I might opt to begin by playing through a story and defining some of the chronicle descriptions after gaining a better understanding of my characters and their objectives.</p>
+
+
+
+<h2>Adventure</h2>
+
+
+
+<p>Chronicle segments enable you to experience concise storylines that align with the main objective and theme of the overall chronicle.</p>
+
+
+
+<p>grab, draw, problem, conflict, intention</p>
+
+
+
+<p>Who:</p>
+
+
+
+<p>This could be a group, an supportor, the player character themselves, an intention, or something more conceptual such as &#8216;desire&#8217; or &#8216;stature&#8217;.</p>
+
+
+
+<p></p>
+
+
+
+<p>Why:</p>
+
+
+
+<p>This can range from something as straightforward as seeking retribution  to a complicated plot that sets the stage for additional story.</p>
+
+
+
+<p></p>
+
+
+
+<p>Where:</p>
+
+
+
+<p>What is the intended place for intention accomplishment?</p>
+
+
+
+<p>Please note that this pertains solely to the estimated environment of the intention and not the place of the entire story.</p>
+
+
+
+<p>Where does the player character begin the story?</p>
+
+
+
+<p>Are they already in close proximity to the intention or still a great distance farther?</p>
+
+
+
+<p></p>
+
+
+
+<p>other</p>
+
+
+
+<p></p>
+
+
+
+<p>If I prefer to uncover certain details during gameplay, leave those items unfilled.</p>
+
+
+
+<p>After you&#8217;ve established your character and have a clear notion of the kind of adventure you plan to undertake, you&#8217;re nearly ready to initiate the initial scene.</p>
+
+
+
+<p>Commence the first scene by adhering to the fundamental gameplay loop.</p>
+
+
+
+<h2>Chapters</h2>
+
+
+
+<p>The ongoing narrative get refreshed after every chapter.</p>
+
+
+
+<p>The narrative amalgamates all the aforementioned components and constitutes the most critical point of reference for your play sessions.</p>
+
+
+
+<p>It condenses all the significant elements of your chronicle and furnishes an up-to-date catalog of all the components involved in your adventures.</p>
+
+
+
+<p>The synthesis relies on the story to establish the objectives of the narrative.</p>
+
+
+
+<p>The greater the amount of context you possess, the simpler it becomes to improvise during gameplay.</p>
+
+
+
+<p>Each story comprises characters, settings, and groups.</p>
+
+
+
+<p>You monitor them through ongoing and past narration.</p>
+
+
+
+<p>They are categorized into the following groups: objectives, characters, groups, places.</p>
+
+
+
+<p>Ongoing narration encompass all the elements that may feature in the ongoing story.</p>
+
+
+
+<p>During synthesis, this narration may serve as potential targets, making it feasible for every entry to make an appearance in a chapter.</p>
+
+
+
+<p>Typically, anything related to the synthesized story objective serves as an excellent initiation.</p>
+
+
+
+<p>Past narration encompass everything that pertains to the overall chronicle but wouldn&#8217;t be appropriate to appear in the ongoing story.</p>
+
+
+
+<p>These may include recurring supporting characters, preferred settings, overarching groups, or any other elements you wish to retain in your adventure.</p>
+
+
+
+<p>The stories consists of: primary objective(s), brief  of each chapter, ongoing narrative.</p>
+
+
+
+<p></p>
+
+
+
+<p>The story serves as the overarching framework that ties together all of the individual chapters. Picture each chapter like a sequence.</p>
+
+
+
+<p>They usually take place in the same setting and have a defined intention.</p>
+
+
+
+<p>Chapters can take many forms, including intense hauntings around abandonments, endearing conversations in a confined space, or instructional epilogues.</p>
+
+
+
+<p>Their duration can vary, and they do not need to adhere to a particular engine.</p>
+
+
+
+<p>Only play out the chapters that are intriguing or pertaining to the story.</p>
+
+
+
+<p>All other details can be briefed over.</p>
+
+
+
+<p>In synthesizing the narrative recursion for each chapter and pronunciation, consider the proceeding information.</p>
+
+
+
+<p>Place: where does the chapter occur?</p>
+
+
+
+<p>Intentions: what is the player character attempting to achieve while in this chapter?</p>
+
+
+
+<p>Start: what is the player character actioning or verbalizing at the outset of the chapter?</p>
+
+
+
+<p>If the synthesis between chapters isn&#8217;t clear, or if you require additional information, consult an technique.</p>
+
+
+
+<p>I may also need to update the chapter to suit the evolving narrative.</p>
+
+
+
+<p>Continue playing until the chapter reaches a reasonable ending, typically marked by the success or failure of the chapters intentional.</p>
+
+
+
+<p>Afterward, add to or modify the narrative to reflect any significant alterations.</p>
+
+
+
+<h2>Stories</h2>
+
+
+
+<p>Following each story, you&#8217;ll have an opportunity to develop your PC through a variety of meanwhile tasks.</p>
+
+
+
+<p>Once you&#8217;ve completed these tasks, synthesis will occur based on the breadth of your chronicle.</p>
+
+
+
+<p>Taking a break in the middle of stories with a period of meanwhileness is often recommended.</p>
+
+
+
+<p>Interludes splitting stories can be beneficial to your PC&#8217;s development.</p>
+
+
+
+<p>This can range from a several rotational degrees to even a multitude of tides, depending on what fits the narrative.</p>
+
+
+
+<p>Leisures, can help your PC work on, attend to, and pursue distant intention and simple aims.</p>
+
+
+
+<p>This approach adds breadth to the chronicle and makes high-difficultly events more meaningful. </p>
+
+
+
+<p>This also provides a feeling of breadth to your chronicle, as not every situation should be difficult and fueled.</p>
+
+
+
+<p>Meanwhileness also provides opportunities for character growth and creates potential intentions.</p>
+
+
+
+<p>Even the most ordinary circumstances can lead to unexpected adventures containing exciting deviations.</p>
+
+
+
+<p>Prioritize the activities that I find applicable to maximize my chronicle&#8217;s enjoyment.</p>
+
+
+
+<p>Use this space to tell a more extraordinary story.</p>
+
+
+
+<p>Sight on the things that grab me and use them as a starting point for my next story.</p>
+
+
+
+<p></p>
+
+
+
+<h2>Narrative synthesis</h2>
+
+
+
+<p>While your PC is scouting, the environment around them continues to evolve and change.</p>
+
+
+
+<p>The synthesis does not attempt to be all aspects of the game world, as that overreaches its breath.</p>
+
+
+
+<p>Instead, it provides observances that allow me to interact with the world and create a compelling narrative.</p>
+
+
+
+<p>Synthesis narration during the chronicle  does not necessarily encompass all aspects of the being&#8217;s existence.</p>
+
+
+
+<p>Rather, the narrative synthesis during the chronicle serves as a tiny image, picture, or frame that can potentially lead to unknown intentions.</p>
+
+
+
+<p>Strive to give meaning to the outcomes in a manner that will influence my player character.</p>
+
+
+
+<p>It can be challenging to maintain sight and ensure that your character is engaged with the narrative.</p>
+
+
+
+<p>Make storylines or elements in the game that do not directly involve your PC only if it brings you enjoyment.</p>
+
+
+
+<p>It can aid as guidance for post chronicles or story concepts for different supporters, even if it doesn&#8217;t directly involve your PC.</p>
+
+
+
+<p>The breadth of my chronicle sets the least number of syntheses per chronicle, but don&#8217;t be afraid to synthesize more if you feel it could add depth to the story.</p>
+
+
+
+<p>Choose an item from your story narrative and then use synthesis for the chronicle to generate a furthering of the narrative.</p>
+
+
+
+<p>If there are any missing details in the story, consult the main techniques to substantiate them in, and then brief the situation into the chronicle.</p>
+
+
+
+<h2>Intentional aim</h2>
+
+
+
+<p>Once I&#8217;ve narrated enough synthesized situations, it&#8217;s time to determine the focus of my character&#8217;s following story.</p>
+
+
+
+<p>I have a few options to decide what my character&#8217;s next story will be.</p>
+
+
+
+<p>One option is to adapt one of the adventure narratives I made during previous story or chronicle.</p>
+
+
+
+<p>Another option is to synthesize a new story intention using The technique.</p>
+
+
+
+<p>Whichever method I choose, make sure it&#8217;s something that interests me and will keep me engaged in the game.</p>
+
+
+
+<h2>Story narration</h2>
+
+
+
+<p>Review both the past and ongoing story narratives and eliminate any items that are not  importantany more to the chronicle.</p>
+
+
+
+<p>Exami the items in both the ongoing story narrative and the past story narrative, and delete any that are no longer relevant or necessary for the current stage of the chronicle.</p>
+
+
+
+<p>If there are items in the ongoing narrative that could continue to be pertinent to the chronicle, but not in the story after, change them to the past narrative for future reference.</p>
+
+
+
+<p>Add previously mysterious items in the ongoing  narrative that are pertinent to the upcoming story.</p>
+
+
+
+<p>I&#8217;m welcome to disregard such for items that I wish to continue viewing in my chapters.</p>
+
+
+
+<p>Just keep them in the ongoing narrative , and it&#8217;s likely that I&#8217;ll engage with them while playing.</p>
 ]]></content:encoded>
 					
+					<wfw:commentRss>https://path.ogenic.us/chronicle/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>PSAL LXXXVIII</title>
-		<link>https://path.ogenic.us/psalm-88/</link>
+		<title>Beginning start</title>
+		<link>https://path.ogenic.us/beginning-start/</link>
+					<comments>https://path.ogenic.us/beginning-start/#respond</comments>
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Tue, 28 Feb 2023 19:22:59 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=162</guid>
+		<pubDate>Tue, 14 Mar 2023 06:06:43 +0000</pubDate>
+				<category><![CDATA[Guidance]]></category>
+		<guid isPermaLink="false">https://path.ogenic.us/?p=19</guid>
 
-					<description><![CDATA[<p>A song or Psalm of Heman the Ezrahite to give instruction, committed to the sons of Korah for him that excelleth upon Mahalath Leannoth.1 O Lord God of my salvation, I cry day and night before thee.2 Let my prayer enter into thy presence: incline thine ear unto my cry.3 For my soul is filled [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/psalm-88/">PSAL LXXXVIII</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-eac8ad7d" data-vce-do-apply="all el-eac8ad7d"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-1bf472e0"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-1bf472e0"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-1bf472e0"><div class="vce-shortcode"><div class="vce-shortcode-wrapper vce" id="el-0bacd380" data-vce-do-apply="all el-0bacd380">
-		<div
-			id="playht-iframe-wrapper"
-			style="display:flex; max-height:90px; justify-content:center">
-			<iframe
-				allowfullscreen=""
-				frameborder="0"
-				scrolling="no"
-				class="playht-iframe-player"
-				data-appId="KHTmFAcFsl"
-				article-url="https://path.ogenic.us/?p=162"
-				data-voice="Karen"
-				src="https://play.ht/embed/?article_url=https://pathogenicus.seandinwiddie.com/?p=162&voice=Karen&config={&quot;width&quot;:&quot;100%&quot;,&quot;height&quot;:&quot;90px&quot;,&quot;alignment&quot;:&quot;center&quot;,&quot;title&quot;:&quot;Audio&quot;,&quot;message&quot;:&quot;Hello&quot;,&quot;download_text_button&quot;:&quot;Download&quot;}"
-				width="100%"
-				height="90px"
-				style="max-height:90px">
-			</iframe>
-		</div></div></div></div></div></div></div></div></div><div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-9df59607" data-vce-do-apply="all el-9df59607"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-75244dec"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-75244dec"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-75244dec"><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-f17c8513" data-vce-do-apply="all el-f17c8513"><h2>A song or Psalm of Heman the Ezrahite to give instruction, committed to the sons of Korah for him that excelleth upon Mahalath Leannoth.</h2><p>1 O Lord God of my salvation, I cry day and night before thee.</p><p>2 Let my prayer enter into thy presence: incline thine ear unto my cry.</p><p>3 For my soul is filled with evils, and my life draweth near to the grave.</p><p>4 I am counted among them that go down unto the pit, and am as a man without strength,</p><p>5 Free among the dead, like the slain laying in the grave, when thou rememberest no more, and they are cut off from thy hand.</p><p>6 Thou hast laid me in the lowest pit, in darkness, and in the deep.</p><p>7 Thine indignation lieth upon me, and thou hast vexed me with all thy waves. Selah.</p><p>8 Thou hast put away mine acquaintance far from me, and made me to be abhorred of them: I am shut up, and cannot get forth.</p><p>9 Mine eye is sorrowful through mine affliction: Lord, I call daily upon thee: I stretch out mine hands unto thee.</p><p>10 Wilt thou show a miracle to the dead? or shall the dead rise and praise thee? Selah.</p><p>11 Shall thy loving kindness be declared in the grave? or thy faithfulness in destruction?</p><p>12 Shall thy wondrous works be known in the dark? and thy righteousness in the land of oblivion?</p><p>13 But unto thee, have I cried, O Lord, and early shall my prayer come before thee.</p><p>14 Lord, why dost thou reject my soul, and hidest thy face from me?</p><p>15 I am afflicted and at the point of death: from my youth I suffer thy terrors, doubting of my life.</p><p>16 Thine indignations go over me, and thy fear hath cut me off.</p><p>17 They came round about me daily like water, and compassed me together.</p><p>18 My lovers and friends hast thou put away from me, and mine acquaintance hid themselves.</p><h6><span style="font-size: 8pt;">Geneva Bible, 1599 Edition. Published by <a href="https://tollelegepress.com/">Tolle Lege Press</a>. All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, without written permission from the publisher, except in the case of brief quotations in articles, reviews, and broadcasts.</span></h6></div></div></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/psalm-88/">PSAL LXXXVIII</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
+					<description><![CDATA[Adventure pollenating involves generating synthesized associations and expanding upon them to establish a preliminary set of potential storylines and character weavings, which I will call a story network and character technique mechanism systemizing. I can employ sporing at the beginning of a chronicle or even later on, and it is particularly useful when I excel [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Adventure pollenating involves generating synthesized associations and expanding upon them to establish a preliminary set of potential storylines and character weavings, which I will call a story network and character technique mechanism systemizing.</p>
+
+
+
+<p>I can employ sporing at the beginning of a chronicle or even later on, and it is particularly useful when I excel at developing stories but may struggle with initiating them.</p>
+
+
+
+<p>By establishing a beginning arrangement of building components and, of higher significance, outlining their interconnections, I can effectively kickstart an adventure.</p>
+
+
+
+<p>Guidance will assist me in selecting a group of spore characters and determining the links between them in terms of chemistry, possessions, intentions, and places.</p>
+
+
+
+<p>Moreover, guidance can offer aid in synthesizing hurdles throughout the narrative, as well as devising a mechanism to initiate the adventure in the beginning start.</p>
+
+
+
+<p>Do not be static.</p>
+
+
+
+<p>Become the synthesis.</p>
+
+
+
+<p>Compose the following gradually over time:</p>
+
+
+
+<ul>
+<li>Stories of</li>
+
+
+
+<li>Characters&#8217;</li>
+
+
+
+<li>Exploration</li>
+</ul>
 ]]></content:encoded>
 					
-		
-		
-			</item>
-		<item>
-		<title>mmxxiii-ii-xxvii-mcxi</title>
-		<link>https://path.ogenic.us/mmxxiii-ii-xxvii-mcxi/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Tue, 28 Feb 2023 19:17:30 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=158</guid>
-
-					<description><![CDATA[<p>the buildup ofv the end, or afterwards.so here I must concluderather "start" [the transition?]shadow management - I guesslet's&#160;to look at one's own and become anotherI say, yes, FORSAKE</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-mcxi/">mmxxiii-ii-xxvii-mcxi</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-9df59607" data-vce-do-apply="all el-9df59607"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-75244dec"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-75244dec"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-75244dec"><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-f17c8513" data-vce-do-apply="all el-f17c8513"><h2>the buildup ofv the end, or afterwards.</h2><p>so here I must conclude</p><p>rather "start" [the transition?]</p><p>shadow management - I guess</p><p>let's&nbsp;</p><p>to look at one's own and become another</p><p>I say, yes, FORSAKE</p></div></div></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-mcxi/">mmxxiii-ii-xxvii-mcxi</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>mmxxiii-ii-xxvii-mdccxxxv</title>
-		<link>https://path.ogenic.us/mmxxiii-ii-xxvii-mdccxxxv/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Tue, 28 Feb 2023 01:35:38 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=152</guid>
-
-					<description><![CDATA[<p>ov prelude.that will have to come for laterthe end is now upon usthat is, me and my shadowthe two of us, are at a "whatcha’mah callit"so that will be where we will have to "start"or "begin", of this trailThe path will be of post, to and from, here-there-hereof wraith and ghost and spirit and undeath</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-mdccxxxv/">mmxxiii-ii-xxvii-mdccxxxv</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-9df59607" data-vce-do-apply="all el-9df59607"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-75244dec"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-75244dec"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-75244dec"><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-f17c8513" data-vce-do-apply="all el-f17c8513"><h2>ov prelude.</h2><p>that will have to come for later</p><p>the end is now upon us</p><p>that is, me and my shadow</p><p>the two of us, are at a "whatcha’mah callit"</p><p>so that will be where we will have to "start"</p><p>or "begin", of this trail</p><p>The path will be of post, to and from, here-there-here</p><p>of wraith and ghost and spirit and undeath</p></div></div></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-mdccxxxv/">mmxxiii-ii-xxvii-mdccxxxv</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>mmxxiii-ii-xxvii-cxx</title>
-		<link>https://path.ogenic.us/mmxxiii-ii-xxvii-cxx/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Mon, 27 Feb 2023 09:20:18 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=145</guid>
-
-					<description><![CDATA[<p>Llecyveah.Where art thou.</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-cxx/">mmxxiii-ii-xxvii-cxx</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-9df59607" data-vce-do-apply="all el-9df59607"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-75244dec"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-75244dec"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-75244dec"><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-f17c8513" data-vce-do-apply="all el-f17c8513"><h2>Llecyveah.</h2><p>Where art thou.</p></div></div></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-cxx/">mmxxiii-ii-xxvii-cxx</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
-		
-		
-			</item>
-		<item>
-		<title>mmxxiii-ii-xxvii-cxiii</title>
-		<link>https://path.ogenic.us/mmxxiii-ii-xxvii-cxiii/</link>
-		
-		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
-		<pubDate>Mon, 27 Feb 2023 08:33:14 +0000</pubDate>
-				<category><![CDATA[General]]></category>
-		<guid isPermaLink="false">https://path.ogenic.us/?p=128</guid>
-
-					<description><![CDATA[<p>Nobody, the nameless un-one: Ydobon.Who were they?Only time will tell.Who am I?I am me.But, not myself!For, we aren’t.Lest, we were.And, therein lies this;The misfortune.</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-cxiii/">mmxxiii-ii-xxvii-cxiii</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></description>
-										<content:encoded><![CDATA[<div class="vce-row-container" data-vce-boxed-width="true"><div class="vce-row vce-row--col-gap-30 vce-row-equal-height vce-row-content--top" id="el-9df59607" data-vce-do-apply="all el-9df59607"><div class="vce-row-content" data-vce-element-content="true"><div class="vce-col vce-col--md-auto vce-col--xs-1 vce-col--xs-last vce-col--xs-first vce-col--sm-last vce-col--sm-first vce-col--md-last vce-col--lg-last vce-col--xl-last vce-col--md-first vce-col--lg-first vce-col--xl-first" id="el-75244dec"><div class="vce-col-inner" data-vce-do-apply="border margin background  el-75244dec"><div class="vce-col-content" data-vce-element-content="true" data-vce-do-apply="padding el-75244dec"><div class="vce-text-block"><div class="vce-text-block-wrapper vce" id="el-f17c8513" data-vce-do-apply="all el-f17c8513"><h2>Nobody, the nameless un-one: Ydobon.</h2><p>Who were they?</p><p>Only time will tell.</p><p>Who am I?</p><p>I am me.</p><p>But, not myself!</p><p>For, we aren’t.</p><p>Lest, we were.</p><p>And, therein lies this;<br>The misfortune.</p></div></div></div></div></div></div></div></div>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/mmxxiii-ii-xxvii-cxiii/">mmxxiii-ii-xxvii-cxiii</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus</a>.</p>
-]]></content:encoded>
-					
+					<wfw:commentRss>https://path.ogenic.us/beginning-start/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
