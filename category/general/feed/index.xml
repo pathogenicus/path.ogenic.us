@@ -9,10 +9,10 @@
 
 <channel>
 	<title>General Archives | Pathogenicus Work</title>
-	<atom:link href="http://localhost/category/general/feed/?simply_static_page=1101" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/general/feed/?simply_static_page=1233" rel="self" type="application/rss+xml" />
 	<link>https://path.ogenic.us/category/general/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
-	<lastBuildDate>Wed, 22 Mar 2023 15:10:37 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Mar 2023 21:31:09 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
