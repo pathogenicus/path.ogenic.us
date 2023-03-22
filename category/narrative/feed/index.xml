@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Chapter Archives | Pathogenicus Work</title>
-	<atom:link href="http://localhost/category/chapter/feed/?simply_static_page=837" rel="self" type="application/rss+xml" />
-	<link>https://path.ogenic.us/category/chapter/</link>
+	<title>Narrative Archives | Pathogenicus Work</title>
+	<atom:link href="http://localhost/category/narrative/feed/?simply_static_page=1039" rel="self" type="application/rss+xml" />
+	<link>https://path.ogenic.us/category/narrative/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
 	<lastBuildDate>Wed, 22 Mar 2023 13:05:03 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -22,8 +22,8 @@
 
 <image>
 	<url>https://path.ogenic.us/wp-content/uploads/2023/03/pathogenicus-150x150.png</url>
-	<title>Chapter Archives | Pathogenicus Work</title>
-	<link>https://path.ogenic.us/category/chapter/</link>
+	<title>Narrative Archives | Pathogenicus Work</title>
+	<link>https://path.ogenic.us/category/narrative/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
@@ -33,7 +33,7 @@
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Thu, 16 Mar 2023 01:44:48 +0000</pubDate>
-				<category><![CDATA[Chapter]]></category>
+				<category><![CDATA[Narrative]]></category>
 		<guid isPermaLink="false">https://path.ogenic.us/?page_id=56</guid>
 
 					<description><![CDATA[<p>Nestled far away in a dangerous and boding forest, illuminated by the pale moonlight, was the isolated habitation of a sinister magician. The air around it crackled with dark energy, the atmosphere was rank with malevolent power, and unsettling spiritual energy suffused its entire surrounding. There wasn&#8217;t much more than a creature in the desolate [&#8230;]</p>
@@ -49,7 +49,7 @@
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 06:04:49 +0000</pubDate>
-				<category><![CDATA[Chapter]]></category>
+				<category><![CDATA[Narrative]]></category>
 		<guid isPermaLink="false">https://path.ogenic.us/?page_id=17</guid>
 
 					<description><![CDATA[<p>Phasm?</p>
@@ -65,7 +65,7 @@
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 06:04:17 +0000</pubDate>
-				<category><![CDATA[Chapter]]></category>
+				<category><![CDATA[Narrative]]></category>
 		<guid isPermaLink="false">https://path.ogenic.us/?page_id=15</guid>
 
 					<description><![CDATA[<p>Adventure Story, 1st ov And so it begins. Here, now. This is where we&#8217;ll have it—the first of [written/recorded] stories.I am in a forest-ed, wooded, treed area. It is darkish, dim. The sun is just coming up. Or maybe perhaps possibly that is rather: going down? I cannot tell eitherway which. It&#8217;s twilight and I [&#8230;]</p>
@@ -81,7 +81,7 @@
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 06:01:11 +0000</pubDate>
-				<category><![CDATA[Chapter]]></category>
+				<category><![CDATA[Narrative]]></category>
 		<guid isPermaLink="false">https://path.ogenic.us/?page_id=12</guid>
 
 					<description><![CDATA[<p>For now, I am here. A (g)host story of spiritual performance. So, here must be my transition of shade management &#8211; look at my own and become I say, yes, FORSAKE. I and mine, are the same. The end has now arrived; that is, me and my shadow. The two, are at a duel of [&#8230;]</p>
