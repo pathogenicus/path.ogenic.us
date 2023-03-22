@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Guidance Archives | Pathogenicus Work</title>
-	<atom:link href="http://localhost/category/guidance/feed/?simply_static_page=709" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/guidance/feed/?simply_static_page=841" rel="self" type="application/rss+xml" />
 	<link>https://path.ogenic.us/category/guidance/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
-	<lastBuildDate>Wed, 22 Mar 2023 02:17:24 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Mar 2023 12:57:30 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,7 +28,7 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chronicle of stories</title>
+		<title>Adventure Stories</title>
 		<link>https://path.ogenic.us/chronicle/</link>
 					<comments>https://path.ogenic.us/chronicle/#respond</comments>
 		
@@ -38,7 +38,7 @@
 		<guid isPermaLink="false">https://path.ogenic.us/?p=25</guid>
 
 					<description><![CDATA[<p>The chronicle serves as the structure that binds all the elements and offers the essential context in which I interpret narrative synthesis. Incorporating significant performance influences facilitates the infusion of the overarching story with a particular style and enhances the coherence of the narrative. The period between adventures provides a generalized representation of the world [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/chronicle/">Chronicle of stories</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
+<p>The post <a rel="nofollow" href="https://path.ogenic.us/chronicle/">Adventure Stories</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
 ]]></description>
 		
 					<wfw:commentRss>https://path.ogenic.us/chronicle/feed/</wfw:commentRss>
@@ -47,9 +47,9 @@
 		
 			</item>
 		<item>
-		<title>Beginning start</title>
-		<link>https://path.ogenic.us/beginning-start/</link>
-					<comments>https://path.ogenic.us/beginning-start/#respond</comments>
+		<title>Here</title>
+		<link>https://path.ogenic.us/here/</link>
+					<comments>https://path.ogenic.us/here/#respond</comments>
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 06:06:43 +0000</pubDate>
@@ -57,10 +57,10 @@
 		<guid isPermaLink="false">https://path.ogenic.us/?p=19</guid>
 
 					<description><![CDATA[<p>Adventure pollination involves generating synthesized associations and expanding upon them to establish a preliminary set of potential storylines and character weavings, which I will call a story network and character technique mechanism systemizing. I can employ sporing at an intersection of a chronicle or even later on, and it is particularly useful when I excel [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/beginning-start/">Beginning start</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
+<p>The post <a rel="nofollow" href="https://path.ogenic.us/here/">Here</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>https://path.ogenic.us/beginning-start/feed/</wfw:commentRss>
+					<wfw:commentRss>https://path.ogenic.us/here/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
