@@ -9,10 +9,10 @@
 
 <channel>
 	<title>Narrative Archives | Pathogenicus Work</title>
-	<atom:link href="http://localhost/category/narrative/feed/?simply_static_page=1039" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/category/narrative/feed/?simply_static_page=1105" rel="self" type="application/rss+xml" />
 	<link>https://path.ogenic.us/category/narrative/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
-	<lastBuildDate>Wed, 22 Mar 2023 13:05:03 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Mar 2023 15:10:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>

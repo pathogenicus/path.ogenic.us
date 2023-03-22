@@ -9,10 +9,10 @@
 
 <channel>
 	<title>pathogenicus, Author at Pathogenicus Work</title>
-	<atom:link href="http://localhost/author/pathogenicus/feed/?simply_static_page=1041" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost/author/pathogenicus/feed/?simply_static_page=1107" rel="self" type="application/rss+xml" />
 	<link>https://path.ogenic.us/author/pathogenicus/</link>
 	<description>Blood and shadow grimoire addressed to me and for my use.</description>
-	<lastBuildDate>Wed, 22 Mar 2023 13:57:25 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Mar 2023 15:10:37 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -44,20 +44,20 @@
 		
 			</item>
 		<item>
-		<title>Adventure Stories</title>
-		<link>https://path.ogenic.us/chronicle/</link>
-					<comments>https://path.ogenic.us/chronicle/#respond</comments>
+		<title>There</title>
+		<link>https://path.ogenic.us/there/</link>
+					<comments>https://path.ogenic.us/there/#respond</comments>
 		
 		<dc:creator><![CDATA[pathogenicus]]></dc:creator>
 		<pubDate>Tue, 14 Mar 2023 06:21:43 +0000</pubDate>
 				<category><![CDATA[Guidance]]></category>
 		<guid isPermaLink="false">https://path.ogenic.us/?p=25</guid>
 
-					<description><![CDATA[<p>My pathogenicus serves as my structure that binds all my elements and offers my essential context in which I interpret narrative synthesis. Incorporating significant performance influences facilitates my infusion of my overarching story with a particular style and enhances my coherence of my narrative. The period between adventures provides a generalized representation of my world [&#8230;]</p>
-<p>The post <a rel="nofollow" href="https://path.ogenic.us/chronicle/">Adventure Stories</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
+					<description><![CDATA[<p>My pathogenicus serves as my structure that binds all my elements and offers my essential context in which I interpret narrative synthesis. Incorporating significant performance influences facilitates my infusion of my overarching narrative with a particular style and enhances my coherence of my narrative. The period between narratives provides a generalized representation of my world [&#8230;]</p>
+<p>The post <a rel="nofollow" href="https://path.ogenic.us/there/">There</a> appeared first on <a rel="nofollow" href="https://path.ogenic.us/">Pathogenicus Work</a>.</p>
 ]]></description>
 		
-					<wfw:commentRss>https://path.ogenic.us/chronicle/feed/</wfw:commentRss>
+					<wfw:commentRss>https://path.ogenic.us/there/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
