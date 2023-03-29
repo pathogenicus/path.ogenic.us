@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://path.ogenic.us/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://path.ogenic.us/here/</loc>
-		<lastmod>2023-03-28T08:29:01+00:00</lastmod>
-		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/here.png</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://path.ogenic.us/there/</loc>
 		<lastmod>2023-03-28T08:31:52+00:00</lastmod>
 		<image:image>
@@ -69,6 +62,19 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/moonscape.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://path.ogenic.us/here/</loc>
+		<lastmod>2023-03-29T03:37:31+00:00</lastmod>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/here.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/character-alterations.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
