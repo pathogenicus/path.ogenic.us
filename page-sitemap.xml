@@ -2,9 +2,12 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://path.ogenic.us/</loc>
-		<lastmod>2023-03-28T18:31:09+00:00</lastmod>
+		<lastmod>2023-03-29T02:38:49+00:00</lastmod>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/meanwhile.png</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -17,9 +20,12 @@
 	</url>
 	<url>
 		<loc>https://path.ogenic.us/narratives/</loc>
-		<lastmod>2023-03-29T01:51:35+00:00</lastmod>
+		<lastmod>2023-03-29T02:36:16+00:00</lastmod>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/narratives.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/pathogenicus-of-shadow.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
