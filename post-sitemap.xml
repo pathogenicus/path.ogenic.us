@@ -1,13 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://path.ogenic.us/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://path.ogenic.us/narrative-3/</loc>
-		<lastmod>2023-03-23T03:22:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/1841d94d-9e86-4a4d-b98a-861cea5e13b7.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://path.ogenic.us/here/</loc>
 		<lastmod>2023-03-28T08:29:01+00:00</lastmod>
 		<image:image>
@@ -54,6 +47,28 @@
 		<lastmod>2023-03-28T08:42:33+00:00</lastmod>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/adventure-story.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://path.ogenic.us/narrative-3/</loc>
+		<lastmod>2023-03-29T01:01:22+00:00</lastmod>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/1841d94d-9e86-4a4d-b98a-861cea5e13b7.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/hut.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-1.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/moonscape.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
