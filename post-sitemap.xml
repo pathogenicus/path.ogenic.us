@@ -43,8 +43,21 @@
 		</image:image>
 	</url>
 	<url>
+		<loc>https://path.ogenic.us/here/</loc>
+		<lastmod>2023-03-29T04:19:02+00:00</lastmod>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/here.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-4.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/character-alterations.png</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://path.ogenic.us/narrative-3/</loc>
-		<lastmod>2023-03-29T01:01:22+00:00</lastmod>
+		<lastmod>2023-04-01T13:37:38+00:00</lastmod>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/1841d94d-9e86-4a4d-b98a-861cea5e13b7.jpeg</image:loc>
 		</image:image>
@@ -62,19 +75,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/moonscape.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://path.ogenic.us/here/</loc>
-		<lastmod>2023-03-29T03:37:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/here.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/out-0-4.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://path.ogenic.us/wp-content/uploads/2023/03/character-alterations.png</image:loc>
 		</image:image>
 	</url>
 </urlset>
